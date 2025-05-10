@@ -2,8 +2,8 @@
 
 Este é um aplicativo simples feito com **Python** e **Tkinter** para baixar vídeos ou áudios diretamente do YouTube.
 
-# Tela:
-(tela downloader.PNG)
+![preview](tela downloader.png)
+
 
 ## 🛠 Requisitos
 
